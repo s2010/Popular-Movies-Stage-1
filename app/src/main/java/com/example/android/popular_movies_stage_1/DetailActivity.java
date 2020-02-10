@@ -25,8 +25,7 @@ public class DetailActivity extends AppCompatActivity {
     TextView title, user_rating, release_date, synopsis;
     ImageView poster_image;
 
-    //Add your api key here
-    String api_key = "";
+    String api_key = "38d3a730e3ef82cfecc81c24d20247c7";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
